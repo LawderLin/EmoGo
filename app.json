@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "expo-router-mwe",
+    "slug": "emogo",
+    "plugins": [
+      "expo-router",
+      "expo-sqlite"
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "a417a1c9-a03c-43ea-8a53-65d2cdcb6ff6"
+      }
+    },
+    "owner": "lawder-lin"
+  }
+}
