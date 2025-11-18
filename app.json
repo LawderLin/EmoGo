@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "emogo",
     "name": "expo-router-mwe",
     "slug": "emogo",
     "plugins": [
@@ -12,6 +13,19 @@
         "projectId": "a417a1c9-a03c-43ea-8a53-65d2cdcb6ff6"
       }
     },
-    "owner": "lawder-lin"
+    "owner": "lawder-lin",
+    "ios": {
+      "bundleIdentifier": "com.lawderlin.emogo",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/a417a1c9-a03c-43ea-8a53-65d2cdcb6ff6"
+    },
+    "android": {}
   }
 }
