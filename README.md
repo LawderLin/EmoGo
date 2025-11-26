@@ -9,20 +9,14 @@ This is a very small Expo project using **expo-router** with:
 
 The APK can downloaded at: https://expo.dev/accounts/lawder-lin/projects/emogo/builds/8b3ce191-e812-4cb3-a7ec-121a1fab000c
 
-## How to run
+## 使用說明
 
-1. Install dependencies:
+### 歷史紀錄
 
-   ```bash
-   npm install
-   # or
-   yarn
-   ```
+下滑可以更新資料。
 
-2. Start the dev server:
+點擊影片可以瀏覽當天的錄影。
 
-   ```bash
-   npx expo start
-   ```
+全部刪除按鈕會跳出兩次詢問以確保使用者不會誤觸。
 
-3. Open the app on a device or emulator using the Expo dev tools.
+匯出資料可以將 csv 檔案分享到指定檔案位置。
